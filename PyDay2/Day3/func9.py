@@ -12,6 +12,7 @@ def test(a):
 test(t)
 print t
 
+
 t1 = {1:'a'}
 def test1(a):
     a[2] = 'b'
